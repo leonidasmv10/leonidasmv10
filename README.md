@@ -15,6 +15,10 @@
 
 - 📫 How to reach me **yordy.lmv.2000@gmail.com**
 
+<h3 align="left">Stats:</h3>
+
+![](https://github-readme-stats.vercel.app/api?username=leonidasmv10&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leonidas-mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonidas-mv" height="30" width="40" /></a>
